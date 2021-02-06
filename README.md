@@ -3,9 +3,10 @@
 This repository was created in response to a work sample prompt to evaluate my skills in cleaining and joining untidy data sets. The prompt is as follows:
 
 
-Using any software (commercial and open source) you like, programmatically join the following two untidy sample
-datasets:
+Using any software (commercial and open source) you like, programmatically join the following two untidy sample datasets:
+
 DOT Licensed drivers--Ratio of licensed drivers to population -https://www.fhwa.dot.gov/ policyinformation/statistics/2014/xls/dl1c.xls.
+
 DOT Licensed Drivers by State, Sex, and Age Group - https://www.fhwa.dot.gov/policyinformation/statistics/2014/xls/dl22.xls.
 
 I have committed these Excel files in the repository for ease of reproducing my work.
